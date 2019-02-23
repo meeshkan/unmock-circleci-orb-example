@@ -1,6 +1,6 @@
 version: 2.1
 orbs:
-  unmock: unmock/unmock@0.0.5
+  unmock: unmock/unmock@0.0.6
 jobs:
   build:
     docker:
