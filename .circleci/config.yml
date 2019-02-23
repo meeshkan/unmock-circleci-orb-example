@@ -1,6 +1,6 @@
 version: 2.1
 orbs:
-  aws-s3: circleci/unmock@0.0.4
+  unmock: unmock/unmock@0.0.4
 jobs:
   build:
     docker:
