@@ -1,6 +1,6 @@
 {
-  "name": "unmock-tutorial",
-  "version": "1.0.0",
+  "name": "unmock-circleci-orb-example",
+  "version": "0.0.0",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
