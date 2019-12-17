@@ -2,6 +2,8 @@
 
 [![CircleCI](https://circleci.com/gh/unmock/unmock-circleci-orb-example.svg?style=svg)](https://circleci.com/gh/unmock/unmock-circleci-orb-example)
 
+:warning: **This example is using an outdated version of Unmock.** If you'd be interested in helping us update this, please check out this [open issue](https://github.com/unmock/unmock-circleci-orb-example/issues/8).
+
 A short example of how to use the [unmock CircleCI orb](https://circleci.com/orbs/registry/orb/unmock/unmock).
 
 ## Contributing
